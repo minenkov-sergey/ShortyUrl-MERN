@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoURI": "mongodb+srv://MinenkovSergey:12345@cluster0.7aqex.mongodb.net/app?retryWrites=true&w=majority",
+    "jwtSecret": "merncourse",
+    "baseUrl": "http://localhost:5000"
+}
